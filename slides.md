@@ -1,44 +1,71 @@
 --- {"layout": "center"}
 
-<style>
-  code {
-    background-color: #808080;
-    padding: 2px 5px;
-    border: 1px solid #ccc;
-    border-radius: 3px;
-    margin-right: 8px;
-  }
-</style>
-
 # First presentation
 
 ---
 
 ## How to initialize a new repository
-<code> git init </code> - Dans le dossier de votre choix
+```bash 
+git init "Dans le dossier de votre choix"
+```
+<br>
 
-<code> git status </code> - Vérifiez l'état du dépôt
+```bash 
+git status "Vérifiez l'état du dépôt"
+```
+<br>
 
-<code> git add . </code> - Ajoutez tous les fichiers
+```bash 
+git add .  "Ajoutez tous les fichiers"
+```
+<br>
 
-<code> git commit -m "Premier Commit" </code> - Effectuez votre premier commit
+```bash 
+git commit -m "Premier Commit" / "Effectuez votre premier commit"
+```
+
 ---
 
 ## How to review changes
 
-<code> git status </code> - Voir les fichiers modifiés dans votre répertoire de travail.
+```bash 
+git status "Voir les fichiers modifiés dans votre répertoire de travail."
+```
+<br>
 
-<code> git diff </code> - Afficher les modifications spécifiques dans les fichiers.
+```bash 
+git diff "Afficher les modifications spécifiques dans les fichiers."
+```
+<br>
 
-<code> git log </code> - Consulter l'historique des commits.
+```bash 
+git log "Consulter l'historique des commits."
+```
+<br>
 
-<code> gitk </code> - Visualiser graphiquement les changements.
+```bash 
+gitk "Visualiser graphiquement les changements."
+```
 
 ---
 
 ## How to commit changes
 
-<code> git add . </code> - Ajouter tout les fichiers modifier au commit
+```bash 
+git add . - Ajouter tout les fichiers modifier au commit
+```
+<br>
 
-<code> git commit -m "nomDuCommit" </code> - Commit tout les changements sur le repo
+```bash 
+git commit -m "nomDuCommit" - Commit tout les changements sur le repo
+```
+--- 
+
+## Create a New Branch
+
+### Command
+
+```bash
+git checkout -b feature/branching
+```
 
