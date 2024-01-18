@@ -38,3 +38,7 @@
 
 ## How to commit changes
 
+<code> git add . </code> - Ajouter tout les fichiers modifier au commit
+
+<code> git commit -m "nomDuCommit" </code> - Commit tout les changements sur le repo
+
