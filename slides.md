@@ -96,3 +96,7 @@ git branch -d feature/branching
 --- 
 
 ### NEW SLIDE YESSS
+
+--- 
+
+### Pushing changes to remote
