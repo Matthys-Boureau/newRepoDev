@@ -144,3 +144,18 @@ YEAHHHHHHHHH
 ### Headers & Quotes
 
 some content
+
+
+---
+
+### Code 
+
+```bash 
+Hello je suis du code 
+```
+
+---
+
+### Extras
+
+some content too
