@@ -76,3 +76,10 @@ git checkout -b feature/branching
 git checkout feature/branching
 ```
 
+---
+
+# Merge Branch on `main`
+
+```bash
+git checkout main
+git merge feature/branching
