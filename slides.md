@@ -63,9 +63,16 @@ git commit -m "nomDuCommit" - Commit tout les changements sur le repo
 
 ## Create a New Branch
 
-### Command
 
 ```bash
 git checkout -b feature/branching
+```
+---
+
+# Work on a Branch
+
+
+```bash
+git checkout feature/branching
 ```
 
