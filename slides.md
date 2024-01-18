@@ -169,4 +169,8 @@ some content too
 
 ---
 
+# How to automate issue closing
+
+---
+
 # Etape 102.03
