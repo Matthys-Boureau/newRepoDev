@@ -83,3 +83,11 @@ git checkout feature/branching
 ```bash
 git checkout main
 git merge feature/branching
+```
+
+--- 
+
+# Delete a Branch
+
+```bash
+git branch -d feature/branching
