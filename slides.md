@@ -1,5 +1,7 @@
---- { "layout" : "center" }
-# FirstPresentation
+--- { "layout" : "center"}
+
+# First presentation
 
 ---
-- Made with Spectacle
+
+# How to initialize a new repository
