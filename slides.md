@@ -36,4 +36,5 @@
 
 ---
 
-- Créé avec Spectacle
+## How to commit changes
+
