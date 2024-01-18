@@ -12,7 +12,7 @@
 
 ---
 
-# How to initialize a new repository
+## How to initialize a new repository
 
 <code> git init</code> - Dans le dossier de votre choix
 
@@ -21,3 +21,7 @@
 <code> git add .</code> - Ajoutez tous les fichiers
 
 <code> git commit -m "Premier Commit"</code> - Effectuez votre premier commit
+
+---
+
+## How to review changes
