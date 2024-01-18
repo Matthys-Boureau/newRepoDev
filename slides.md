@@ -127,3 +127,13 @@ YEAHHHHHHHHH
 ```bash 
 YEAHHHHHHHHH
 ```
+
+---
+
+### Image 
+
+<img src="https://www.freecodecamp.org/news/content/images/2021/04/uide-to-writting-a-good-readme-file--1-.png" width="500" title="hover text">
+
+```bash 
+YEAHHHHHHHHH
+```
