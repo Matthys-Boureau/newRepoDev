@@ -114,3 +114,16 @@ Hello i'm a very good text
 ```bash 
 YEAHHHHHHHHH
 ```
+
+
+---
+
+### Lists 
+
+- 1
+- 2
+- 3
+
+```bash 
+YEAHHHHHHHHH
+```
