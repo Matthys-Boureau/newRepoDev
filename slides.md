@@ -132,7 +132,7 @@ YEAHHHHHHHHH
 
 ### Image 
 
-<img src="https://www.freecodecamp.org/news/content/images/2021/04/uide-to-writting-a-good-readme-file--1-.png" width="500" title="hover text">
+![Image](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ```bash 
 YEAHHHHHHHHH
@@ -143,7 +143,12 @@ YEAHHHHHHHHH
 
 ### Headers & Quotes
 
-some content
+`some content`
+
+# HEADER 1
+## Header 2
+### Header 3
+#### Header 4
 
 
 ---
@@ -157,6 +162,7 @@ Hello je suis du code
 ---
 
 ### Extras
+- 1
+  - [2](Hello)
 
 some content too
-test for citizen
