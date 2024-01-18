@@ -92,3 +92,7 @@ git merge feature/branching
 ```bash
 git branch -d feature/branching
 ```
+
+--- 
+
+### NEW SLIDE YESSS
