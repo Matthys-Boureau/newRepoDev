@@ -100,3 +100,7 @@ git branch -d feature/branching
 --- 
 
 ### Pushing changes to remote
+
+---
+
+### Pulling changes from remote
