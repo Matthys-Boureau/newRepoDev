@@ -171,6 +171,8 @@ some content too
 
 # How to automate issue closing
 
+Make a commit with `gcmsg 'feat: automation FTW closes #1'
+
 ---
 
 # Etape 102.03
